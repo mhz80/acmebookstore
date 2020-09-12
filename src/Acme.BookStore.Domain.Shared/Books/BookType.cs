@@ -2,7 +2,7 @@
 {
     public enum BookType
     {
-        Undefiend,
+        Undefined,
         Advanture,
         Biography,
         Dystopia,
