@@ -1,0 +1,31 @@
+﻿{
+  "culture": "fa",
+  "texts": {
+    "Menu:Home": "خانه",
+    "Welcome": "خوش آمدید",
+    "LongWelcomeMessage": "به این برنامه خوش آمدید. این پروژه اجرایی براساس فریمورک ABP است. برای اطلاعات بیشتر از abp.io بازدید کنید.",
+    "Menu:BookStore": "فروشگاه کتاب",
+    "Menu:Books": "کتاب ها",
+    "Actions": "اختیارات",
+    "Close": "بستن",
+    "Delete": "حذف",
+    "Edit": "ویرایش",
+    "PublishDate": "تاریخ انتشار",
+    "NewBook": "کتاب جدید",
+    "Name": "نام",
+    "Type": "دسته",
+    "Price": "قیمت",
+    "CreationTime": "زمان ایجاد",
+    "AreYouSure": "مطمئن هستید؟",
+    "AreYouSureToDelete": "برای حذف این مورد مطمئن هستید؟",
+    "Enum:BookType:0": "تعریف نشده",
+    "Enum:BookType:1": "ماجراجویانه",
+    "Enum:BookType:2": "زندگی نامه",
+    "Enum:BookType:3": "ویران شهر",
+    "Enum:BookType:4": "فانتزی",
+    "Enum:BookType:5": "وحشت",
+    "Enum:BookType:6": "علمی",
+    "Enum:BookType:7": "علمی تخیلی",
+    "Enum:BookType:8": "شعر"
+  }
+}
